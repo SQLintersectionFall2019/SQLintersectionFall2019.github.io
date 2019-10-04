@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Bob Ward"
+date:   2018-09-27 11:48:33 +0400
+expertise: "Principal Architect for the Microsoft SQL Server Data Services Group"
+
+---
+
+Bob Ward is a Principal Architect for the Microsoft SQL Server Data Services Group, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 25 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2017 including Linux. He has worked in customer support as a principal escalation engineer and Chief Technology Officer (CTO), interacting with some of the largest SQL Server deployments in the world. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as SQL PASS Summit, SQLBits, SQLintersection, and Microsoft Ignite. 
+
+Here are links to his presentation material:
