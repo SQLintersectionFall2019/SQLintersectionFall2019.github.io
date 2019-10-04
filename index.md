@@ -5,4 +5,5 @@
 layout: home
 ---
 
-[SQLintersection]() is proud to provide the following speaker material from its 2019 conference held in Las Vegas, NV on November 18th - 21st, 2019.
+[SQLintersection]() is proud to provide the following speaker material from its 2019 conference held in Las Vegas, NV on November 18th - 21st, 
+2019.
