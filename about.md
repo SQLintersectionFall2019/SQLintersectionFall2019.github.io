@@ -8,4 +8,4 @@ SQLintersection is packed with technical, full-day workshops over 3 days (2 prec
 
 And, unlike some other conferences, SQLintersection speakers are all real-world consultants, members of the Microsoft product development or Microsoft customer service / support teams who are also known as the best speakers in the SQL Server community! If you want practical development from REAL experts who can really teach you HOW to do things RIGHT, this is the place to be!
 
-[SQLintersection-organization]: https://devintersection.com/#!/?track=sql
+[SQLintersection-organization]: https://SQLintersectionFall2019.github.io
