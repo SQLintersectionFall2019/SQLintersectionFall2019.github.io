@@ -10,3 +10,4 @@ Kevin Farlee has over 30 years in the industry, in both database as well as stor
 Here are links to his presentation material:
 
 - [Azure SQL Database Hyperscale: Unlimited VLDB Scale without the VLDB Headaches](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Hyperscale_SQLintersectionFall2019.pptx)
+- [Azure SQL Database Managed Instance: The Most Compatible Platform as a Service Database on the Planet](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/ManagedInstanceSQLintersectionFall2019.pptx)
