@@ -14,3 +14,7 @@ Here are links to her presentation material:
 - [Troubleshooting Query Plans: Part2-Statistics Problems](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLintersection_Tripp_QueryPlansPart2.pdf)
 - [Troubleshooting Query Plans: Part 1-DEMOS - SCRIPTS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLintersection_Tripp_QueryPlansPart1_DemoScripts%20(1).zip)
 - [Troubleshooting Query Plans: Part 2-DEMOS - SCRIPTS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLintersection_Tripp_QueryPlansPart2_DemoScripts.zip)
+- [Statistics: Internals, Analysis, and Solutions](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLintersection_Tripp_Statistics.pdf)
+- [Statistics: Internals, Analysis, and Solutions-DEMOS - SCRIPTS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLintersection_Tripp_Statisitics-DemoScripts.zip)
+
+
