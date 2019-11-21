@@ -16,3 +16,4 @@ Here are links to his presentation material:
 - [Getting started with Azure Infrastructure as a Service](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/GettingStartedWithAzureIaaS_TimRadney.pdf)
 - [Understanding SQL Server Backup and Restore](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Understanding%20Backups%20and%20Restores_TimRadney.pdf)
 - [An Introduction to Azure Managed Instances](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/AnIntroductiontoAzureManagedInstances_TimRadney.pdf)
+- [An Introduction to Power BI](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/GettingStartedWithPowerBI_Tradney%20(1).pdf)
