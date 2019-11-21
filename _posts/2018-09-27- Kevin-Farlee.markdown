@@ -5,7 +5,7 @@ date:   2018-09-27 11:48:33 +0400
 expertise: Senior Program Manager | Microsoft
 ---
 
-Kevin Farlee has over 30 years in the industry, in both database as well as storage management software. In his current role as a Senior Program Manager on the Microsoft SQL Server team, he is responsible for the SQL Server High Availability roadmap, as well as the high performance OLTP and Analytics features within the SQL product.
+Leslie Richardson is a Program Manager on the Visual Studio Debugging & Diagnostics Team, where she recently helped design the new managed data breakpoints and watch window search features for Visual Studio 2019. She primarily focuses on "debugging" developers' pain points and providing a satisfying, productive debugging experience.
 
 Here are links to his presentation material:
 
