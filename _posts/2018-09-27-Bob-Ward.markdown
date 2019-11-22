@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Bob Ward"
+date:   2018-09-27 11:48:33 +0400
+expertise: Principal Architect Microsoft Azure Data / SQL Server Team | Microsoft
+---
+
+Bob Ward is a Principal Architect for the Microsoft Azure Data SQL Server team, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 25+ years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2019 including Azure. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as SQL PASS Summit, SQLBits, SQLIntersection, and Microsoft Inspire and Microsoft Ignite. Bob is the author of the new book Pro SQL Server on Linux available from Apress Media.  Twitter: http://twitter.com/bobwardms
+
+Here are links to his presentation material:
+
+- [Azure Data: What to Use When](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQLServerAndAzureDataWhatToUseWhen_ShortVersion.pptx)
+- [General Session: The Mechanics of SQL Server](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/The%20Mechanics%20of%20SQL%20Server%20(2).pptx)
+- [Polybase++ in SQL Server 2019](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Polybase%2B%2B%20in%20SQL%20Server%202019%20(1).pptx)
+- [Inside SQL Server Containers](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Inside%20SQL%20Server%20Containers%20(2).pptx)
+- [Keynote: Microsoft SQL Server 2019 Big Data Clusters](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/SQL%20Server%202019%20Big%20Data%20Clusters.pptx)
