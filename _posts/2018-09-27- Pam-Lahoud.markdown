@@ -15,3 +15,4 @@ Here are links to her presentation material:
 ](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/TempDB-TheGoodTheBadTheUgly.pptx)
 - [Turbocharge Your SQL Server with In-Memory Database](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Turbocharge%20Your%20SQL%20Server%20With%20In-Memory%20Database.pptx)
 - [Practical Guidance to Make Your Tier-1 SQL Server ROAR!](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202019/Practical%20guidance%20to%20make%20your%20tier-1%20SQL%20Server%20ROAR.pptx)
+- [Other DEMOS](https://aka.ms/SQL2019Notebooks)
