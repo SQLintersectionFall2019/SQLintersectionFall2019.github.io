@@ -5,7 +5,7 @@ date:   2018-09-27 11:48:33 +0400
 expertise: Data and Applied Scientist | Microsoft
 ---
 
-Anna is a Data and Applied Scientist on the Azure Data (SQL) team at Microsoft. She's been democratizing AI the past few years, and is now expanding to democratizing intelligence over all your data, from ground to cloud.
+Pedro Lopes is a Senior Program Manager in the Database Systems Group, based in Redmond, WA, USA. He over 16 years of industry experience. He is currently responsible for Program Management of database engine features for in-market and vNext versions of SQL Server, with special focus on the Relational Engine. He also works closely with several Tier 1 SQL Server customers and ISVs, as well as partners in the field, to understand and gather information about product usage and feedback to drive improvements into the product.He blogs about all things SQL at http://aka.ms/sqlserverteam, authored AdaptiveIndexDefrag (http://aka.ms/aid), and publishes the BPCheck script for SQL Best Practices and Performance checks (http://aka.ms/BPCheck) and others. You can find Pedro on twitter as @SQLPedro.
 
 Here are links to her presentation material:
 
